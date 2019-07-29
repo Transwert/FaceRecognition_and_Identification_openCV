@@ -12,6 +12,9 @@ So with pre-defined dataset containing images of person ( which to be identified
 ( in total, their are 3 inbuilt facial recognisers :  Eigenface recogniser, Fisherface recogniser and LBPH face recogniser ),
 which being trained on the dataset, and then is used to identify person.
 
+project first includes first making of dataset ( by data_formation.py), then training of recogniser on dataset ( by face_train.py )
+and then using the trained weights to identify the person ( by face_ident.py )
+
 ## Observations :
 1) this classifier does show a good result, as it is faster than normal yet slow neural network model in terms of training, 
 but it lacks in terms of accuracy as compared to those slow neural network models. so it depends on user, to trade off between
