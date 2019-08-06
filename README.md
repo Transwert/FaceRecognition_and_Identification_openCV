@@ -25,4 +25,4 @@ accuracy or training and deploymemt speed.
 3) the confidence level of identifying corrrect person directly depends on quantity and quality of dataset used. might gets dominant in detecting one specific person, if the dataset size is not uniform for all labels.
 
 ## Note :
-for working on alternative of classifier i.e. neural network or other Deep learning methods, data-set available from [here].(https://www.kaggle.com/dataturks/face-detection-in-images)
+for working on alternative of classifier i.e. neural network or other Deep learning methods, data-set available from [here](https://www.kaggle.com/dataturks/face-detection-in-images).
